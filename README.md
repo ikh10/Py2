@@ -6,7 +6,8 @@ Welcome to **Py2**, a mini Python project series created during my summer break!
 1. Password Strength Checker
 2. Palindrome Checker
 3. Random Number Generator
-4. Countdown Timer
+4. Factorial Calculator 
+5. Countdown Timer
 
 ## Technology Used: Python 3.x
 ---
@@ -33,7 +34,7 @@ A simple Python script that checks whether a given word is a palindrome — a wo
 
 ### 3. 🎲 Random Number Generator
 
-A simple Python script that generates a random number within a specified range.
+A simple Python script that generates a random number within a specified range. (Source: Automate the Boring Stuff with Python)
 
 **Features:**
 - Generates a random number between 1 and 20
@@ -41,3 +42,20 @@ A simple Python script that generates a random number within a specified range.
 - Provides feedback on whether the guess is too high or too low
 - Limits the user to 6 attempts to guess the correct number
 - Reveals the correct number if the player fails to guess within 6 attempts
+
+---
+
+### 4. ✅ Factorial Calculator
+
+Calculates the factorial of a number using a for loop.
+
+**Features:**
+- Accepts a number from the user via terminal input
+- Calculates factorial using a simple for loop
+- Handles small to large integers accurately
+- Returns the result in a clear and readable format
+
+---
+
+
+
